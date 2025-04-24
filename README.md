@@ -1,1 +1,7 @@
-The purpose to this repo is to host a sample interest calculator, to initiate and test a larger project on low income citizen support applications.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
